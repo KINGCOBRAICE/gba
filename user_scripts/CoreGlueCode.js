@@ -78,7 +78,7 @@ var games = {
     "gba_video_pokemon_3":"Pokemon Video Pak 3",
     "gba_video_pokemon_4":"Pokemon Video Pak 4",
 	"puyopop":"Puyo Pop",
-    "rhythmheaven":"Rhythm Heaven Silver"
+	"rhythmheaven":"Rhythm Heaven Silver"
     "sonic_advance":"Sonic Advance",
     "sonic_advance2":"Sonic Advance 2",
     "sonic_advance3":"Sonic Advance 3",
